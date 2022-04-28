@@ -2,6 +2,20 @@
 
 ## [Leetcode](https://leetcode.com/problemset/all/)
 LeetCode is the popular platform for technical interviews.
+- [704. Binary Search]()
+- [374. Guess Number Higher or Lower]()
+- [35. Search Insert Position]()
+- [852. Peak Index in a Mountain Array]()
+- [278. First Bad Version]()
+- [74. Search a 2D Matrix]()
+- [153. Find Minimum in Rotated Sorted Array]()
+
+## [HackerRank](https://www.hackerrank.com/dashboard)
+HackerRank is the popular platform for technical interviews.
+- [Left Rotation]()
+- [Bubble Sort]()
+- [Quick Sort - Partition]()
+
 
 ## [Programmers](https://programmers.co.kr/learn/challenges)
 Programmers is the Korean platform for technical interviews.
