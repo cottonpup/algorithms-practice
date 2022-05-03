@@ -9,6 +9,9 @@ LeetCode is the popular platform for technical interviews.
 - [278. First Bad Version]()
 - [74. Search a 2D Matrix]()
 - [153. Find Minimum in Rotated Sorted Array]()
+- [33. Search in Rotated Sorted Array]()
+- [367. Valid Perfect Square]()
+- [1385. Find the Distance Value Between Two Arrays]()
 
 ## [HackerRank](https://www.hackerrank.com/dashboard)
 HackerRank is the popular platform for technical interviews.
