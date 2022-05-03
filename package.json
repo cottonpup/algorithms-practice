@@ -1,0 +1,20 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "findMinNum.js",
+  "scripts": {
+    "test": "jest -i searchMatrix",
+    "tsc": "tsc",
+    "bootstrap:D": "npm i -D @types/jest@^27.1.4 jest@^27.1.4 ts-jest@^27.1.4 ts-node@^10.7.0 typescript@^4.6.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^27.1.4",
+    "jest": "^27.1.4",
+    "ts-jest": "^27.1.4",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}

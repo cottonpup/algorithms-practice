@@ -1,0 +1,25 @@
+
+
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "lib": ["ES2019"],
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "outDir": "dist",
+    "rootDir": ".",
+    "incremental": true,
+    "tsBuildInfoFile": "dist/tsconfig.tsbuildinfo",
+    "declaration": true,
+    "inlineSourceMap": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": false,
+    "strict": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowUnreachableCode": false,
+    "allowJs": false,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+  },
+  "include": ["src"]
+}
