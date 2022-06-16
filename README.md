@@ -4,8 +4,8 @@
 LeetCode is the popular platform for technical interviews.
 - [704. Binary Search](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
 - [374. Guess Number Higher or Lower](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/guessNumber.ts)
-- [35. Search Insert Position]()
-- [852. Peak Index in a Mountain Array]()
+- [35. Search Insert Position](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchInsert.ts)
+- [852. Peak Index in a Mountain Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/peakIndexInMountainArray.ts)
 - [278. First Bad Version]()
 - [74. Search a 2D Matrix](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchMatrix.ts)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/findMinNum.ts)
