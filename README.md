@@ -2,7 +2,7 @@
 
 ## [Leetcode](https://leetcode.com/problemset/all/)
 LeetCode is the popular platform for technical interviews.
-- [704. Binary Search]()
+- [704. Binary Search](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
 - [374. Guess Number Higher or Lower]()
 - [35. Search Insert Position]()
 - [852. Peak Index in a Mountain Array]()

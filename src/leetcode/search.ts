@@ -1,4 +1,4 @@
-// Problem Source: https://leetcode.com/problems/search-in-rotated-sorted-array/
+// Problem Source: https://leetcode.com/problems/binary-search/
 /**
  * @param {number[]} nums
  * @param {number} target
