@@ -1,3 +1,5 @@
+// Problem Source: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
 export function findMin(nums: number[]): number {
   console.log('halllooo');
   let start = 0;
