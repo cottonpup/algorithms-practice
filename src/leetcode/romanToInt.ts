@@ -4,8 +4,12 @@
 // 1. if(i + 1) 할 때 index를 넘어가면 오류를 던질거라고 생각했는데 그렇지 않았다.
 // 2. hasMap에 접근할 때 s(string)값을 통해 접근할 수 있다는 걸 깜빡헀다.
 
+// TODO
+// Find out better solution
+
+// Better Solution
 export function romanToInt(s: string): number {
-  const hasMap: Record<string, number> = {
+  const hashMap: Record<string, number> = {
     I: 1,
     V: 5,
     X: 10,
@@ -18,16 +22,17 @@ export function romanToInt(s: string): number {
   let total = 0;
 
   s.split('').forEach((num, i) => {
-    if (hasMap[num] < hasMap[s[i + 1]]) {
-      total -= hasMap[num];
+    if (hashMap[num] < hashMap[s[i + 1]]) {
+      total -= hashMap[num];
     } else {
-      total += hasMap[num];
+      total += hashMap[num];
     }
   });
 
   return total;
 }
 
+// Naive Solution
 // export function romanToInt(s: string): number {
 //   const hasMap: Record<string, number> = {
 //     I: 1,
