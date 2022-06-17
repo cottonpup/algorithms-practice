@@ -2,14 +2,16 @@
 
 ## [Leetcode](https://leetcode.com/problemset/all/)
 LeetCode is the popular platform for technical interviews.
-- [704. Binary Search](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
-- [374. Guess Number Higher or Lower](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/guessNumber.ts)
+- [1. Two Sum]()
+- [9. Palindrome Number]()
+- [33. Search in Rotated Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
 - [35. Search Insert Position](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchInsert.ts)
-- [852. Peak Index in a Mountain Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/peakIndexInMountainArray.ts)
-- [278. First Bad Version](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/solution.ts)
 - [74. Search a 2D Matrix](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchMatrix.ts)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/findMinNum.ts)
-- [33. Search in Rotated Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
+- [278. First Bad Version](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/solution.ts)
+- [374. Guess Number Higher or Lower](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/guessNumber.ts)
+- [704. Binary Search](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
+- [852. Peak Index in a Mountain Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/peakIndexInMountainArray.ts)
 - [367. Valid Perfect Square](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/isPerfectSquare.ts)
 - [1385. Find the Distance Value Between Two Arrays](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/findTheDistanceValue.ts)
 
