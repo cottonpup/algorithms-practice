@@ -1,20 +1,20 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "node",
-            "request": "launch",
-            "name": "Debug Jest Test",
-            "program": "${workspaceFolder}/src/leetcode",
-            "skipFiles": [
-			"node_modules/**",
-			"<node_internals>/**"
-		    ],
-            "args": ["${relativeFile}"],
-            "sourceMaps": true
-        },
-    ]
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "idk.js",
+  "scripts": {
+    "test": "jest -i",
+    "tsc": "tsc",
+    "bootstrap:D": "npm i -D @types/jest@^27.1.4 jest@^27.1.4 ts-jest@^27.1.4 ts-node@^10.7.0 typescript@^4.6.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^27.1.4",
+    "jest": "^27.1.4",
+    "ts-jest": "^27.1.4",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
 }

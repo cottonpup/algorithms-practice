@@ -4,6 +4,10 @@
 LeetCode is the popular platform for technical interviews.
 - [1. Two Sum]()
 - [9. Palindrome Number]()
+- [13. Roman to Integer]()
+- [20. Valid Parentheses]()
+- [14. Longest Common Prefix]()
+- [21. Merge Two Sorted Lists]()
 - [33. Search in Rotated Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
 - [35. Search Insert Position](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchInsert.ts)
 - [74. Search a 2D Matrix](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchMatrix.ts)
