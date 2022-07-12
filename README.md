@@ -10,6 +10,7 @@ LeetCode is the popular platform for technical interviews.
 - [17. Letter Combinations of a Phone Number](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/letterCombinations.ts)
 - [21. Merge Two Sorted Lists](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/mergeTwoLists.ts)
 - [26. Remove Duplicates from Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/removeDuplicates.ts)
+- [27. Remove Element]()
 - [33. Search in Rotated Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
 - [35. Search Insert Position](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchInsert.ts)
 - [74. Search a 2D Matrix](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchMatrix.ts)
