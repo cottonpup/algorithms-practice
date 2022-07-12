@@ -9,6 +9,7 @@ LeetCode is the popular platform for technical interviews.
 - [14. Longest Common Prefix]()
 - [17. Letter Combinations of a Phone Number]()
 - [21. Merge Two Sorted Lists]()
+- [26. Remove Duplicates from Sorted Array]()
 - [33. Search in Rotated Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
 - [35. Search Insert Position](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchInsert.ts)
 - [74. Search a 2D Matrix](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchMatrix.ts)
