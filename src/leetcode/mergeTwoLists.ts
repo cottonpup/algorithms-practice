@@ -56,15 +56,27 @@ export function mergeTwoLists(
     return list1;
   }
 
-  const mergedSortedListHead = new ListNode();
-  let mergedSortedListTail = mergedSortedListHead;
+  /**
+   * list1 {val: 1, next: {val: 2, next: null}}
+   * list2 {val: 1, next: {val: 3, next: null}}
+   */
 
+  const mergedSortedListHead = new ListNode();
+  /**
+   * mergedSortedListHead {val: 0, next: null}
+   */
+  let mergedSortedListTail = mergedSortedListHead;
+  /**
+   * mergedSortedListTail {val: 0, next: null}
+   */
   let list1Pointer: ListNode | null = list1;
   let list2Pointer: ListNode | null = list2;
 
   while (true) {
     const elementList1: ListNode | null = list1Pointer;
+    // {val: 1, next: {val: 2, next: null}}
     const elementList2: ListNode | null = list2Pointer;
+    // {val: 1, next: {val: 3, next: null}}
 
     if (elementList1 === null) {
       mergedSortedListTail.next = elementList2;
@@ -76,20 +88,34 @@ export function mergeTwoLists(
       break;
     }
 
+    /**
+     * 1 < 1 => false
+     */
     if (elementList1.val < elementList2.val) {
       // tail of mergedSortedList = element of list1
       mergedSortedListTail.next = elementList1;
+      /**
+       * mergedSortedListTail {val: 1, next: {val: 1, next: {val: 2, next: null}}}
+       */
       mergedSortedListTail = mergedSortedListTail.next;
-
       list1Pointer = elementList1.next;
     } else {
+      /**
+       * mergedSortedListTail {val: 0, next: {val: 1, next: {val: 3, next: null}}}
+       */
       mergedSortedListTail.next = elementList2;
       mergedSortedListTail = mergedSortedListTail.next;
-
+      /**
+       * mergedSortedListTail {val: 1, next: {val: 3, next: null}}
+       */
       list2Pointer = elementList2.next;
+      /**
+       *  {val: 3, next: null}
+       */
     }
   }
 
+  // NOTE: Why do we need mergedSortedListHead?
   return mergedSortedListHead.next;
 }
 
