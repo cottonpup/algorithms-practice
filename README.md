@@ -54,6 +54,7 @@ A Korean platform offering coding challenges, particularly tailored for the Kore
 A platform offering fun and educational coding challenges known as 'katas' to improve programming skills.
 
 ### [8kyu Problems](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&beta=false&order_by=sort_date%20desc)
+1. [Even or Odd]()
 ### [7kyu Problems](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&beta=false&order_by=sort_date%20desc)
 ### [6kyu Problems](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-6&beta=false&order_by=sort_date%20desc)
 
