@@ -31,14 +31,14 @@ A platform providing diverse coding challenges and competitions, widely used for
 
 ## [Programmers](https://programmers.co.kr/learn/challenges)
 A Korean platform offering coding challenges, particularly tailored for the Korean tech industry.
-## [코딩 기초 트레이닝 - 124 문제](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)
-1. [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)
-2. [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)
-3. [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)
-4. [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)
-5. [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)
-6. [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)
-7. [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)
+### [코딩 기초 트레이닝 - 124 문제](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)
+1. [길이에 따른 연산](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EA%B8%B8%EC%9D%B4%EC%97%90_%EB%94%B0%EB%A5%B8_%EC%97%B0%EC%82%B0.js)
+2. [조건 문자열](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%A1%B0%EA%B1%B4_%EB%AC%B8%EC%9E%90%EC%97%B4.js)
+3. [n개 간격의 원소들](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/n%EA%B0%9C_%EA%B0%84%EA%B2%A9%EC%9D%98_%EC%9B%90%EC%86%8C%EB%93%A4.js)
+4. [문자열 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
+5. [a와 b 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/a%EC%99%80_b_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
+6. [문자열 반복해서 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
+7. [대소문자 바꿔서 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90_%EB%B0%94%EA%BF%94%EC%84%9C_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
 
 1. [17681](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/correspondingBits.js)
 2. [12916](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/countCharacters.js)
