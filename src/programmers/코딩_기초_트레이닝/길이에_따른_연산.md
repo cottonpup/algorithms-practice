@@ -1,0 +1,14 @@
+# [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)
+              
+이번에 알게 된 것:
+- 곱셉할 때, answer 값을 1로 초기화 해야겠다.
+  
+```js
+function solution(num_list) {
+  const add = (a, b) => a + b;
+  const multiply = (a, b) => a * b;
+  const reducer = num_list.length >= 11 ? add : multiply;
+
+  return num_list.reduce(reducer);
+}
+```
