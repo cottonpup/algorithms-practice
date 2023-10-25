@@ -40,6 +40,8 @@ A Korean platform offering coding challenges, particularly tailored for the Kore
 6. [문자열 반복해서 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
 7. [대소문자 바꿔서 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90_%EB%B0%94%EA%BF%94%EC%84%9C_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
 
+---
+
 1. [17681](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/correspondingBits.js)
 2. [12916](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/countCharacters.js)
 3. [12903](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/middleLetterOfStr.js)
