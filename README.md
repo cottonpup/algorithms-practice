@@ -1,7 +1,7 @@
 # algorithms-practice
 
 ## [Leetcode](https://leetcode.com/problemset/all/)
-LeetCode is the popular platform for technical interviews.
+A platform focused on interview preparation, offering a wide range of algorithm challenges.
 - [1. Two Sum](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/twoSum.ts)
 - [9. Palindrome Number](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/isPalindrome.ts)
 - [13. Roman to Integer](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/romanToInt.ts)
@@ -10,7 +10,7 @@ LeetCode is the popular platform for technical interviews.
 - [17. Letter Combinations of a Phone Number](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/letterCombinations.ts)
 - [21. Merge Two Sorted Lists](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/mergeTwoLists.ts)
 - [26. Remove Duplicates from Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/removeDuplicates.ts)
-- [27. Remove Element]()
+- [27. Remove Element](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/removeElement.ts)
 - [33. Search in Rotated Sorted Array](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/search.ts)
 - [35. Search Insert Position](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchInsert.ts)
 - [74. Search a 2D Matrix](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/searchMatrix.ts)
@@ -23,14 +23,14 @@ LeetCode is the popular platform for technical interviews.
 - [1385. Find the Distance Value Between Two Arrays](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/findTheDistanceValue.ts)
 
 ## [HackerRank](https://www.hackerrank.com/dashboard)
-HackerRank is the popular platform for technical interviews.
+A platform providing diverse coding challenges and competitions, widely used for candidate screening.
 - [Left Rotation](https://github.com/cottonpup/algorithms-practice/blob/main/src/hackerrank/rotLeft.js)
 - [Bubble Sort](https://github.com/cottonpup/algorithms-practice/blob/main/src/hackerrank/countSwaps.js)
 - [Quick Sort - Partition](https://github.com/cottonpup/algorithms-practice/blob/main/src/hackerrank/quickSort.js)
 
 
 ## [Programmers](https://programmers.co.kr/learn/challenges)
-Programmers is the Korean platform for technical interviews.
+A Korean platform offering coding challenges, particularly tailored for the Korean tech industry.
 
 - [17681](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/correspondingBits.js)
 - [12916](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/countCharacters.js)
@@ -38,3 +38,9 @@ Programmers is the Korean platform for technical interviews.
 - [12910](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/remainingNumberArr.js)
 - [12906](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/removeDuplicatesFn.js)
 - [12901](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/getWeekdayOfLeapYear.js)
+
+## [Codewars](https://www.codewars.com/)
+A platform offering fun and educational coding challenges known as 'katas' to improve programming skills.
+
+## [Codility](https://www.codility.com/)
+A platform specializing in algorithmic challenges, mainly used for technical recruitment.
