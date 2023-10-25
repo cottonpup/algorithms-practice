@@ -62,8 +62,8 @@ A platform offering fun and educational coding challenges known as 'katas' to im
 1. [Even or Odd](https://github.com/cottonpup/algorithms-practice/blob/main/src/codewars/8kyu/evenOrOdd.md)
 2. [Return Negative](https://github.com/cottonpup/algorithms-practice/blob/main/src/codewars/8kyu/makeNegative.md)
 
-### [7kyu Problems](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&beta=false&order_by=sort_date%20desc)
-### [6kyu Problems](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-6&beta=false&order_by=sort_date%20desc)
+### [7kyu Problems](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&beta=false&order_by=sort_date%20desc)
+### [6kyu Problems](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-6&beta=false&order_by=sort_date%20desc)
 
 ## [Codility](https://www.codility.com/)
 A platform specializing in algorithmic challenges, mainly used for technical recruitment.
