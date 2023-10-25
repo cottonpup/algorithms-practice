@@ -11,10 +11,3 @@
 10. [최솟값 만들기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 11. [올바른 괄호](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8.md)
 12. [이진 변환 반복하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%9D%B4%EC%A7%84_%EB%B3%80%ED%99%98_%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md)
-
-# 배운 점들
-- 잘 모르겠으면 콘솔에 먼저 찍어보기.
-- 문자열이 대소문자인지 체크해볼 때, `toUpperCase` 혹은 `toLowerCase` 를 사용하여 값이 같은 지를 비교하면 된다.
-- [repeat 메서드](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
-- 기본 입출력 readline
-- eval 함수 지양 이유
