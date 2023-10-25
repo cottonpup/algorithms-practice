@@ -6,6 +6,11 @@
 5. [a와 b 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/a%EC%99%80_b_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
 6. [문자열 반복해서 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
 7. [대소문자 바꿔서 출력하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90_%EB%B0%94%EA%BF%94%EC%84%9C_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js)
+8. [최댓값과 최솟값](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%B5%9C%EB%8C%80%EA%B0%92%EA%B3%BC_%EC%B5%9C%EC%86%8C%EA%B0%92.md)
+9. [JadenCase 문자열 만들기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/JadenCase_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+10. [최솟값 만들기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+11. [올바른 괄호](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8.md)
+12. [이진 변환 반복하기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%9D%B4%EC%A7%84_%EB%B3%80%ED%99%98_%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md)
 
 # 배운 점들
 - 잘 모르겠으면 콘솔에 먼저 찍어보기.
