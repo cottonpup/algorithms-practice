@@ -47,13 +47,13 @@ A Korean platform offering coding challenges, particularly tailored for the Kore
 
 ---
 
-1. [2016년](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/2016%EB%85%84.js)
-2. [가운데 글자 가져오기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EA%B0%80%EC%9A%B4%EB%8D%B0_%EA%B8%80%EC%9E%90_%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.js)
-3. [같은 숫자는 싫어](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EA%B0%99%EC%9D%80_%EC%88%AB%EC%9E%90%EB%8A%94_%EC%8B%AB%EC%96%B4.js)
-4. [나누어 떨어지는 숫자 배열](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EB%82%98%EB%88%84%EC%96%B4_%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94_%EC%88%AB%EC%9E%90_%EB%B0%B0%EC%97%B4.js)
-5. [문자열 내 p와 y의 개수](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4_p%EC%99%80_y%EC%9D%98_%EA%B0%9C%EC%88%98.js)
-6. [비밀지도](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.js)
-7. [최소직사각형](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js)
+1. [2016년](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/2016%EB%85%84.md)
+2. [가운데 글자 가져오기](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EA%B0%80%EC%9A%B4%EB%8D%B0_%EA%B8%80%EC%9E%90_%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
+3. [같은 숫자는 싫어](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EA%B0%99%EC%9D%80_%EC%88%AB%EC%9E%90%EB%8A%94_%EC%8B%AB%EC%96%B4.md)
+4. [나누어 떨어지는 숫자 배열](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EB%82%98%EB%88%84%EC%96%B4_%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94_%EC%88%AB%EC%9E%90_%EB%B0%B0%EC%97%B4.md)
+5. [문자열 내 p와 y의 개수](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4_p%EC%99%80_y%EC%9D%98_%EA%B0%9C%EC%88%98.md)
+6. [비밀지도](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.md)
+7. [최소직사각형](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md)
 
 ## [Codewars](https://www.codewars.com/)
 A platform offering fun and educational coding challenges known as 'katas' to improve programming skills.
