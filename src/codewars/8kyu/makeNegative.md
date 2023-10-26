@@ -4,6 +4,7 @@
 - 숫자를 어떻게 음수화 시키지? 
   - 양수화를 시키고 음수화를 시켜도 된다.
   - 멍청했다! 그리고 -1 을 그냥 곱해도 된다.
+
 ```js
 function makeNegative(num) {
   if (num > 0) {
@@ -20,5 +21,15 @@ function makeNegative(num) {
 ```js
 function makeNegative(num) {
   return -Math.abs(num);
+}
+```
+
+```js
+function makeNegative(num) {
+  if(num < 0) {
+      return num
+  } else {
+    return num * -1 
+  }
 }
 ```
