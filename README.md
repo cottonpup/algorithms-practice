@@ -50,6 +50,12 @@ A Korean platform offering coding challenges, particularly tailored for the Kore
 16. [문자열 돌리기]()
 17. [홀짝 구분하기]()
 18. [문자열 겹쳐쓰기]()
+19. [조건에 맞게 수열 변환하기 3]()
+20. [뒤에서 5등 위로]()
+21. [공배수]()
+22. [flag에 따라 다른 값 반환하기]()
+23. [정수 부분]()
+24. [접미사인지 확인하기]()
 
 ---
 
