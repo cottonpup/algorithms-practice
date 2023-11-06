@@ -57,6 +57,20 @@ A Korean platform offering coding challenges, particularly tailored for the Kore
 23. [정수 부분]()
 24. [접미사인지 확인하기]()
 
+### [코딩테스트 입문 - 100 문제](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)
+1. [두 수의 합]()
+2. [두 수의 차]()
+3. [두 수의 곱]()
+4. [몫 구하기]()
+5. [두 수의 나눗셈]()
+6. [숫자 비교하기]()
+7. [분수의 덧셈]()
+8. [배열 두 배 만들기]()
+9. [나머지 구하기]()
+10. [중앙값 구하기]()
+11. [최빈값 구하기]()
+12. [짝수는 싫어요]()
+
 ---
 
 1. [2016년](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/2016%EB%85%84.md)
