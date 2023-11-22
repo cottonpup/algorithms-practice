@@ -22,12 +22,15 @@ A platform focused on interview preparation, offering a wide range of algorithm 
 18. [367. Valid Perfect Square](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/isPerfectSquare.ts)
 19. [1385. Find the Distance Value Between Two Arrays](https://github.com/cottonpup/algorithms-practice/blob/main/src/leetcode/findTheDistanceValue.ts)
 
+<br/>
+
 ## [HackerRank](https://www.hackerrank.com/dashboard)
 A platform providing diverse coding challenges and competitions, widely used for candidate screening.
 1. [Left Rotation](https://github.com/cottonpup/algorithms-practice/blob/main/src/hackerrank/rotLeft.js)
 2. [Bubble Sort](https://github.com/cottonpup/algorithms-practice/blob/main/src/hackerrank/countSwaps.js)
 3. [Quick Sort - Partition](https://github.com/cottonpup/algorithms-practice/blob/main/src/hackerrank/quickSort.js)
 
+<br/>
 
 ## [Programmers](https://programmers.co.kr/learn/challenges)
 A Korean platform offering coding challenges, particularly tailored for the Korean tech industry.
@@ -57,6 +60,8 @@ A Korean platform offering coding challenges, particularly tailored for the Kore
 23. [정수 부분]()
 24. [접미사인지 확인하기]()
 
+<br/>
+
 ### [코딩테스트 입문 - 100 문제](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)
 1. [두 수의 합]()
 2. [두 수의 차]()
@@ -71,6 +76,8 @@ A Korean platform offering coding challenges, particularly tailored for the Kore
 11. [최빈값 구하기]()
 12. [짝수는 싫어요]()
 
+<br/>
+
 ---
 
 1. [2016년](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/2016%EB%85%84.md)
@@ -81,8 +88,11 @@ A Korean platform offering coding challenges, particularly tailored for the Kore
 6. [비밀지도](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.md)
 7. [최소직사각형](https://github.com/cottonpup/algorithms-practice/blob/main/src/programmers/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md)
 
+<br/>
+
 ## [Codewars](https://www.codewars.com/)
 A platform offering fun and educational coding challenges known as 'katas' to improve programming skills.
+
 
 ### [8kyu Problems](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&beta=false&order_by=sort_date%20desc)
 1. [Even or Odd](https://github.com/cottonpup/algorithms-practice/blob/main/src/codewars/8kyu/evenOrOdd.md)
@@ -90,6 +100,9 @@ A platform offering fun and educational coding challenges known as 'katas' to im
 
 ### [7kyu Problems](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&beta=false&order_by=sort_date%20desc)
 ### [6kyu Problems](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-6&beta=false&order_by=sort_date%20desc)
+
+
+<br/>
 
 ## [Codility](https://www.codility.com/)
 A platform specializing in algorithmic challenges, mainly used for technical recruitment.
